@@ -3,15 +3,15 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://www.facebook.com/share/g/1HAGTStoyr/", "_blank")
+    window.open("https://www.facebook.com/share/g/1HiiRCSSKd/", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://www.facebook.com/share/g/1HAGTStoyr/");
+    window.open("https://whatsapp.com/channel/0029VbCKzuEFXUugctLPPy1D");
 }
 
 function openFacebookPage() {
-    window.open("https://facebook.com/groups/1407008471329470/");
+    window.open("https://www.facebook.com/share/g/1HiiRCSSKd/");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://s.shopee.co.id/8zyp8hZrSG", "_blank");
+    window.open("https://s.shopee.co.id/9V0JRZkOhT", "_blank");
 });
 
 
